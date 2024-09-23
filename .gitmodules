@@ -6,3 +6,35 @@
 	path = l10n-ecuador
 	url = git@github.com:RaulSuquinagua/l10n-ecuador
 	branch = 17.0
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 17.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 17.0
+[submodule "account-invoice-reporting"]
+	path = account-invoice-reporting
+	url = git@github.com:OCA/account-invoice-reporting.git
+	branch = 17.0
+[submodule "design-themes"]
+	path = design-themes
+	url = git@github.com:odoo/design-themes.git
+	branch = 17.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 17.0
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 17.0
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 17.0
+[submodule "web"]
+	path = web
+	url = git@github.com:OCA/web.git
+	branch = 17.0
