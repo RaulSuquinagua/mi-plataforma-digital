@@ -2,3 +2,7 @@
 	path = odoo
 	url = git@github.com:RaulSuquinagua/odoov17.git
 	branch = 17.0
+[submodule "l10n-ecuador"]
+	path = l10n-ecuador
+	url = git@github.com:RaulSuquinagua/l10n-ecuador
+	branch = 17.0
